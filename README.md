@@ -1,2 +1,2 @@
 # Takeo_Data_Analytics
-Its for Tekeo Data Analytivs
+Its for Tekeo Data Analytics
